@@ -1,2 +1,1 @@
-# we-need-you
-Tell me your github email in 1498710037@qq.com
+<img src="https://github.com/zhijiasoft/we-need-you/blob/master/assets/AYANAMI.jpg" style="width:100%;"/>
